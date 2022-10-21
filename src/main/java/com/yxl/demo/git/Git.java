@@ -11,5 +11,6 @@ public class Git {
         System.out.println("1");
         System.out.println("push commit");
         System.out.println("push commit 2");
+        System.out.println("pull test");
     }
 }
